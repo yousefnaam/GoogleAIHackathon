@@ -1,0 +1,34 @@
+2. User Registration and Authentication -- Simply make them login with google
+Google login makes it so that we do not need our own authentication system
+
+3. Image Recognition and Description
+
+Image upload feature: Allow users to upload images from their device or capture images using the device's camera.
+Integration with Gemini API: Utilize the API to analyze uploaded images and generate descriptive audio feedback.
+Audio description playback: Provide users with spoken descriptions of the content and context of the image.
+4. Language Detection and Translation
+
+Language detection: Implement functionality to detect the language of the text within the image.
+Integration with Gemini API: Utilize language detection features to identify the text language.
+Translation service: Use the Gemini API to translate the detected text into the user's preferred language.
+5. User Preferences and Settings
+
+Language selection: Allow users to choose their preferred language for audio descriptions and text translation.
+Personalization options: Enable users to customize the app settings according to their preferences and accessibility needs.
+
+6. Accessibility Features
+
+Voice commands: Implement voice-activated commands for hands-free interaction with the app.
+High contrast mode: Provide a high contrast interface option for users with low vision.
+Screen reader compatibility: Ensure compatibility with screen reader software for users who rely on auditory feedback.
+
+
+FRONT-END:
+Utalize low code app building platform
+
+BACK-END:
+Gemini implementation
+
+App Description:
+
+Name: 
