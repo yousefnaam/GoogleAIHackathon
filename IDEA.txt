@@ -31,4 +31,7 @@ Gemini implementation
 
 App Description:
 
-Name: 
+Name:  EyeAssist AI
+
+
+vid used for help : https://www.youtube.com/watch?v=mJ3bGvy0WAY
